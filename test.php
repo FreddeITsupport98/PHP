@@ -9,9 +9,16 @@
 <body>
     
     <?php
-         $name = "Fredrik";
+        $name = "Fredrik";
         echo "<h1> hello $name my love</h1>"; 
+
+        $tal1 = 12; //integer
+        $tal2 = (int) "235"; // string
+        $tal3 = true; // bolean
+        $tal4 = (int) 235.235; // lol
+        $tal5 = null;
        
+        echo $tal1 + $tal2 + $tal3 + $tal4 + $tal5
     ?>
 
 </body>
