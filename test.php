@@ -19,6 +19,8 @@
         $tal5 = null;
        
         echo $tal1 + $tal2 + $tal3 + $tal4 + $tal5
+
+        print()
     ?>
 
 </body>
